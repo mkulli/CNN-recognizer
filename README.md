@@ -7,8 +7,8 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/mkulli/CNN-recognizer.git
+   cd https://github.com/mkulli/CNN-recognizer.git
    ```
 2. Установите необходимые пакеты:
    ```bash
